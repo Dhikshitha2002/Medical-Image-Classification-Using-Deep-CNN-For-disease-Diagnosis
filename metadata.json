@@ -1,0 +1,5 @@
+{
+  "name": "NeuroScan AI",
+  "description": "A futuristic web application for medical image diagnosis using a simulated Deep Convolutional Neural Network (CNN) model. Users can upload MRI, CT, or X-ray scans to receive a predicted diagnosis, confidence score, and detailed model insights with a stunning 3D glassmorphism interface.",
+  "requestFramePermissions": []
+}
