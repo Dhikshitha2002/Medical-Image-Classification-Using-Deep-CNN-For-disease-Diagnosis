@@ -45,5 +45,7 @@ high level of accuracy, precision, and generalizability across multiple disease 
 modalities.
 
 ### Dashboard
+![111](https://github.com/user-attachments/assets/4bcc9b81-ef1b-45f3-ae0b-3ff18646c0d5)
+![1111](https://github.com/user-attachments/assets/fdba384f-58bf-4073-b7c3-b007b8aa6b6a)
 ![11111](https://github.com/user-attachments/assets/3e7973e8-7b5e-4fdf-a1ea-c29c3f966ecd)
 
